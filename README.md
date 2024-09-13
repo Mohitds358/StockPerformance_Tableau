@@ -34,7 +34,7 @@ This Tableau project provides a comprehensive view of stock portfolio performanc
 
 ## Data Sources
 This dashboard uses historical stock price data and portfolio holdings information. Ensure you have the following data:
-- Daily stock prices for each stock in your portfolio
+- Daily stock prices for each stock in your portfolio (Can use GOOGLEFINANCE from a particular data for particular stock)
 - Purchase information (date, price, quantity) for each stock
 - Current portfolio holdings
 
